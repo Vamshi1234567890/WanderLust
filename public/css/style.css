@@ -119,3 +119,13 @@ body{
     height: 300px;
     width: 80vh;
  }
+
+
+#filters {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.filter {
+    text-align: center;
+}
